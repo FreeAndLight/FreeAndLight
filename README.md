@@ -1,3 +1,4 @@
+![](https://gitee.com/hk1024/first/raw/master/helloim-shanhai.svg)
 ### Hi there 👋
 
 <!--
